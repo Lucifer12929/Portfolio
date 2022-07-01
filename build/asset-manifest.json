@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46f274ec.chunk.css",
+    "main.js": "/static/js/main.4015af21.chunk.js",
+    "main.js.map": "/static/js/main.4015af21.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f490a728.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f490a728.js.map",
+    "static/css/2.d353fc7e.chunk.css": "/static/css/2.d353fc7e.chunk.css",
+    "static/js/2.461252ea.chunk.js": "/static/js/2.461252ea.chunk.js",
+    "static/js/2.461252ea.chunk.js.map": "/static/js/2.461252ea.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d353fc7e.chunk.css.map": "/static/css/2.d353fc7e.chunk.css.map",
+    "static/css/main.46f274ec.chunk.css.map": "/static/css/main.46f274ec.chunk.css.map",
+    "static/js/2.461252ea.chunk.js.LICENSE.txt": "/static/js/2.461252ea.chunk.js.LICENSE.txt",
+    "static/media/Amazon-clone.9539bd65.png": "/static/media/Amazon-clone.9539bd65.png",
+    "static/media/Chat-Web-App.09e8e388.png": "/static/media/Chat-Web-App.09e8e388.png",
+    "static/media/Easy_Learning.27119e94.png": "/static/media/Easy_Learning.27119e94.png",
+    "static/media/Instagram-clone.b677b742.png": "/static/media/Instagram-clone.b677b742.png",
+    "static/media/Netflix-clone.82dddeb3.png": "/static/media/Netflix-clone.82dddeb3.png",
+    "static/media/Uber-clone.d052fcd9.png": "/static/media/Uber-clone.d052fcd9.png",
+    "static/media/man.2a78a85e.jpg": "/static/media/man.2a78a85e.jpg",
+    "static/media/video.af6f522a.mp4": "/static/media/video.af6f522a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f490a728.js",
+    "static/css/2.d353fc7e.chunk.css",
+    "static/js/2.461252ea.chunk.js",
+    "static/css/main.46f274ec.chunk.css",
+    "static/js/main.4015af21.chunk.js"
+  ]
+}
